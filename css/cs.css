@@ -1,0 +1,540 @@
+.place{
+    margin-left: -9px;
+    margin-top: -9px;
+    width: 100%;
+    position: absolute;
+
+}
+.header{
+    position: fixed;
+    margin-top: 0px;
+    margin-left: 10%;
+    margin-right: auto;
+    width: 80%;
+    height: 160px;
+    border: 1px solid rgb(49, 46, 46);
+    background-color: rgb(49, 46, 46);
+
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+}
+.rovnost{
+    position: fixed;
+    width: 100%;
+    margin: 0px auto;
+}
+.fon{
+    border-bottom-left-radius: 100px;
+    border: 1px solid rgb(49, 46, 46);
+    background-color: rgb(49, 46, 46);
+    position: fixed;
+    margin-top: 0px;
+    margin-left: 10%;
+    margin-right: auto;
+    width: 40%;
+    height: 160px;
+    box-shadow: red 0px 0px 30px 12px;
+}
+.fon2{
+    border-bottom-right-radius: 100px;
+    border: 1px solid rgb(49, 46, 46);
+    background-color: rgb(49, 46, 46);
+    position: fixed;
+    margin-top: 0px;
+    margin-left: 50%;
+    margin-right: auto;
+    width: 40%;
+    height: 160px;
+    box-shadow: rgb(0, 68, 255) 0px 0px 30px 12px;
+}
+.logo{
+    margin-top: -25px;
+    float: left;
+    margin-left: 10px;
+    color: rgb(255, 124, 2);
+}
+h3{
+    text-decoration: none;
+}
+.noone{
+    text-decoration: none;
+}
+.menu{
+    color: rgb(255, 124, 2);
+    margin-top: 45px;
+    float: right;
+    margin-right: 10px;
+    margin-left: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+.imgakk{
+
+    width: 160px;
+    height: 160px;
+    border-bottom-right-radius: 100px;
+    
+}
+.fonakk{
+    float: right;
+    margin-right: 110px;
+    margin-left: 30px;
+    margin-top: 0px;
+    width: 50px;
+    height: 50px;
+}
+.adel{
+    color: rgb(255, 124, 2);
+    text-decoration: none;
+}
+.content{
+    position: absolute;
+    margin-top: 140px;
+    margin-left: 15%;
+    margin-right: auto;
+    width: 70%;
+    background-color: rgb(20, 20, 20);
+
+}
+.catalog{
+    position: fixed;
+    width: 20%;
+    height: 50px;
+    margin-left: 40%;
+    margin-top: 150px;
+    margin-right: auto;
+    border: red solid 1px;
+    background-color: red;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+}
+.img1{
+    float: left;
+    position: fixed;
+}
+.img2{
+height: 1080px;
+margin-left: 80%;
+    position: fixed;
+}
+.menuCataloga{
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 25%;
+    width: 50%;
+    height: 400px;
+    border: 1px solid black;
+    background-color: rgb(226, 226, 226);
+}
+.CenaPCs{
+    width: 100%;
+    height: 300px;
+    margin-top: 100px;
+    border: 1px solid black;
+    background-color: rgb(80, 80, 80);
+    box-shadow: red 0px 0px 30px 5px;
+}
+.TopProdaj{
+    width: 100%;
+    height: 600px;
+    margin-top: 50px;
+    border: 1px solid black;
+    background-color: rgb(80, 80, 80);
+    
+}
+.BlockCPC{
+    float: left;
+    width: 20%;
+    height: 90%;
+    margin-left: 10%;
+    margin-top: 1%;
+    margin-bottom: 20px;
+    border: 1px solid green;
+    background-color: white;
+    border-radius: 30px;
+}
+.img3{
+    border-bottom: 1px solid black;
+    width: 100%;
+    height: 50%;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+.text{
+    margin-left: 10px;
+    color: black;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+.BlockButtom{
+    float: right;
+    width: 100px;
+    height: 100px;
+    margin-top: 100px;
+    background-color: rgb(0, 195, 255);
+}
+.img4{
+    width: 100px;
+    height: 100px;
+    float: right;
+}
+.TopTovarL{
+    float: left;
+    width: 46%;
+    height: 450px;
+    margin-top: 30px;
+    margin-left: 10px;
+    border-radius: 30px;
+    background-color: rgb(219, 219, 219);
+    box-shadow: rgb(43, 255, 0) 0px 0px 30px 5px;
+}
+.TopTovarR{
+    float: right;
+    width: 46%;
+    height: 450px;
+    margin-top: 30px;
+    margin-right: 10px;
+    border-radius: 30px;
+    background-color: rgb(219, 219, 219);
+    box-shadow: rgb(255, 0, 0) 0px 0px 30px 5px;
+}
+.img5{
+    margin-left: 10px;
+    margin-top: 80px;
+    width: 40%;
+    height: 30%;
+}
+.text1{
+    width: 50%;
+    font-size: 20px;
+    margin-right: 10px;
+    height: 300px;
+    float: right;
+    
+}
+.clr{
+    clear: both;
+}
+.btn{
+    float: right;
+    width: 50%;
+    margin-right: 10px;
+    border-radius: 20px;
+    height: 70px;
+    background-color: rgb(255, 123, 0);
+}
+.text2{
+    margin-top: 10px;
+    font-size: 40px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+.text21{
+    font-size: 50px;
+    color: white;
+
+}
+.cena{
+    float: left;
+    font-size: 28px;
+    margin-top: 15px;
+    margin-left: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+.vhod{
+    margin-left: 32%;
+    margin-right: auto;
+    margin-top: 15%;
+    position: fixed;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: orange 0px 0px 10px 10px;
+    width: 35%;
+    height: 500px;
+}
+.news{
+    width: 100%;
+    height: 400px;
+    margin-top: 30px;
+    background-color: rgba(0, 0, 0, 0.788);
+}
+.nowostui{
+    margin-top: 20px;
+    font-size: 30px;
+}
+.blockNews{
+    float: left;
+    width: 33.333%;
+    height: 100%;
+
+    
+}
+.img6{
+    width: 100%;
+    height: 100%;
+    opacity: 0.5;
+}
+.textN{
+    font-family: 'Roboto', sans-serif;
+    margin-top: -150px;
+    margin-left: 20px;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    opacity: 11;
+}
+.strelkaL{
+    margin-top: -200px;
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    background-color: orange;
+    color: black;
+    margin-left: 10px;
+}
+.strelkaR{
+    margin-top: -230px;
+    margin-right: 10px;
+    float: right;
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    background-color: orange;
+    color: black;
+}
+.textS{
+    font-size: 40px;
+    padding-top: 22%;
+}
+.infoShop{
+    width: 100%;
+    margin-top: 30px;
+    border-top: 1px solid black;
+    background-color: rgb(80, 80, 80);
+    height: 500px;
+}
+.textL{
+    float: left;
+    margin-left: 90px;
+    width: 50%;
+    font-size: 25px;
+    line-height: 40px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+.karta{
+    float: right;
+    margin-right: 90px;
+    margin-top: 30px;
+    width: 450px;
+    box-shadow: greenyellow 0px 0px 30px 10px;
+    border-radius: 30px;
+}
+.spusk{
+    
+    color: white;
+    margin-top: 50px;
+}
+.logoL{
+    margin-left: 40px;
+    width: 200px;
+}
+/*
+@keyframes pokaz{
+    from{
+        margin-top: 30px;
+    }
+    to{
+        margin-top: 200px;
+    }
+}
+#JScatalog{
+    animation: pokaz 1s ease-in-out alternate;
+    animation-play-state: paused;
+}
+#JScatalog:hover{
+    animation-play-state: running;
+}*/
+.footer{
+    position: absolute;
+    margin-top: 2150px;
+    width: 100%;
+    background-color: black;
+    height: 50px;
+
+}
+.footerC{
+    position: absolute;
+    margin-top: 970px;
+    width: 100%;
+    background-color: black;
+    height: 50px;
+
+}
+.footerSC{
+    position: absolute;
+    margin-top: 250px;
+    width: 100%;
+    background-color: black;
+    height: 50px;
+}
+.footerSC1{
+    position: absolute;
+    margin-top: 1050px;
+    width: 100%;
+    background-color: black;
+    height: 50px;
+}
+.footerSC11{
+    position: absolute;
+    margin-top: 990px;
+    width: 100%;
+    background-color: black;
+    height: 50px;
+}
+.footerSC3{
+    position: absolute;
+    margin-top: 1150px;
+    width: 100%;
+    background-color: black;
+    height: 50px;
+}
+
+
+
+
+.textGL{
+    float: left;
+    color: white;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+/*#zatemnenie {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top:0;
+    left: 0;
+    display: none;
+}
+#okno{
+    width: 200px;
+    height: 200px;
+    padding: 15px;
+    border: 3px solid orange;
+    border-radius: 10px;
+    color: black;
+    position: absolute;
+    top: 70px;
+    right: 360px;
+    bottom: 0;
+    left: 1;
+    background: #fff;
+}
+#zatemnenie:target {display: block;}
+.close{
+    display: inline-block;
+    border: 1px solid black;
+    color: black;
+    padding: 0 12px;
+    margin: 5px;
+    text-decoration: none;
+    background: #f2f2f2;
+    font-size: 14pt;
+    cursor: pointer;
+}
+.close:hover{
+    background: red;
+}
+.close1{
+    display: inline-block;
+    color:black;
+    padding-left: 130px;
+    padding-top: 0px;
+    text-decoration: none;
+    font-size: 14pt;
+    cursor: pointer;
+}
+.close1:hover{color:red;}
+.newpass{
+    display: inline-block;
+    text-decoration: none;
+    font-size:12pt;
+    color: orange;
+    padding-top: 5px ;
+}
+.join{
+    color:black;
+    background: orange;
+}
+.join:hover{
+    background: rgba(255,166,0,0.726);
+}*/
+
+
+@media screen and (max-width: 1850px) {
+    .karta{
+        width: 300px;
+        margin-right: 50px;
+    }
+    .textL{
+        line-height: 30px;
+        margin-left: 50px;
+        font-size: 20px;
+    }
+    .TopTovarL{
+        height: 450px;
+        margin-left: 1%;
+        width: 400px;
+    }
+    .TopTovarR{
+        margin-left: 1%;
+        width: 400px;
+    }
+    .text1{
+        font-size: 15px;
+    }
+    .cena{
+        font-size: 20px;
+    }
+    .btn{
+        width: 180px;
+    }
+    .text2{
+        margin-top: 20px;
+        font-size: 25px;
+    }
+    .textN{
+        font-size: 20px;
+    }
+}
+@media screen and (max-width: 1200px){
+    .header{
+        margin-right: 0px;
+        margin-left: 100px;
+        width: 1000px;
+    }
+    .rovnost{
+        max-width: 1200px;
+    }
+    .place{
+        width: 1200px;
+    }
+    .fon{
+        margin-right: 0px;
+        margin-left: 100px;
+        min-width: 600px;
+        width: 600px;
+    }
+    .fon2{
+        margin-left: 600px;
+        margin-right: 0px;
+        min-width: 500px;
+        width: 100px;
+    }
+    .catalog{
+        width: 300px;
+        margin-left: 450px;
+    }
+}

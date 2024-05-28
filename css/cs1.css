@@ -1,0 +1,342 @@
+.ctlg{
+    
+    width: 400px;
+    height: 70px;
+    margin-top: 100px;
+    background-color: rgb(255, 115, 0);
+    border-radius: 20px;
+    margin: auto auto 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.contentC{
+    position: absolute;
+    margin-top: 140px;
+    margin-left: 15%;
+    margin-right: auto;
+    width: 70%;
+    
+    background-color: rgb(26, 26, 26);
+
+}
+.imgg{
+    margin-left: 100px;
+    width: 200px;
+    height: 500px;
+}
+.te{
+    padding-top: 15px;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.spisok{
+    margin-top: 200px;
+    margin: auto auto 100px;
+    width: 100%;
+}
+.yacheika{
+    width: 800px;
+    height: 200px;
+    margin: auto auto 2px;
+    border-top: 1px solid red;
+    border-bottom: 1px solid red;
+    margin-top: 10px;
+    box-shadow: red 0px 0px 30px 5px;
+    background-color: rgb(20, 20, 20);
+}
+.LeftIMG{
+    float: left;
+    width: 150px;
+    height: 150px;
+    margin-top: 25px;
+    margin-left: 25px;
+    box-shadow: red 0px 0px 10px 1px;
+}
+.txt1{
+    width: 100%;
+    height: 50%;
+    float: left;
+    font-size: 25px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+.harakt{
+    margin-bottom: 10px;
+    font-size: 20px;
+    color: white;
+
+}
+.clr2{
+    margin-bottom: 10px;
+}
+.Linfo{
+    float: left;
+    height: 150px;
+    width: 575px;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+.cenabd{
+    float: left;
+    color: white;
+    font-size: 20px;
+    float: left;
+    margin-top: 25px;
+    font-family: 'Roboto', sans-serif;
+}
+.btn3{
+    float: right;
+    width: 200px;
+    margin-top: 10px;
+    border-radius: 25px;
+    height: 50px;
+    background-color: orange;
+}
+.textPod{
+    font-size: 20px;
+    margin-top: 13px;
+    font-family: 'Roboto', sans-serif;
+}
+.textPod1{
+    font-size: 26px;
+    margin-top: 5px;
+    font-family: 'Roboto', sans-serif;
+}
+.textPod2{
+    font-size: 30px;
+    margin-top: 8px;
+    font-family: 'Roboto', sans-serif;
+}
+.tovarVibrn{
+    margin: auto auto 10px;
+    height: 1000px;
+}
+.tovvar{
+    margin-top: 100px;
+    width: 100%;
+    height: 900px;
+    /*border: 1px solid red;*/
+}
+.imageT{
+    width: 450px;
+    height: 450px;
+    border-radius: 10px;
+}
+.LefChast{
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 450px;
+    height: 800px;
+    /*border: 1px solid green;*/
+}
+.textceni{
+    margin-top: 50px;
+    font-size: 40px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+.btnbuy{
+    margin: auto auto 10px;
+    background-color: orange;
+    width: 300px;
+    height: 50px;
+    margin-top: 0px;
+    border-radius: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+.textBuy{
+    margin-top: 50px;
+    font-size: 40px;
+}
+.RightChast{
+    margin-left: 525px;
+    margin-top: -800px;
+    width: 750px;
+    height: 600px;
+    /*border: 1px solid green;*/
+}
+.textNaz{
+    font-size: 40px;
+    margin-bottom: 20px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+.opisT{
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+.BlockVhod{
+    width: 100%;
+    height: 650px;
+    margin-top: 200px;
+}
+.BlockVhod1{
+    width: 100%;
+    height: 750px;
+    margin-top: 100px;
+}
+.btn5{
+    float: right;
+    width: 38%;
+    margin-right: 10px;
+    border-radius: 20px;
+    height: 70px;
+    background-color: rgb(255, 123, 0);
+    
+}
+.blcv{
+    width: 700px;
+    margin: auto auto 0px;
+    margin-top: 100px;
+    height: 350px;
+    border-radius: 10px;
+    background-color: rgb(54, 54, 54);
+    box-shadow: rgb(54, 54, 54) 0px 0px 80px 15px;
+}
+.textVh{
+    margin-left: 10px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+.textVh2{
+    margin-left: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    color: rgb(255, 102, 0);
+    font-family: 'Roboto', sans-serif;
+}
+.strokaV{
+    margin-bottom: 20px;
+    margin-left: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    width: 96%;
+    height: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+.blcv1{
+    width: 700px;
+    margin: auto auto 0px;
+    margin-top: 30px;
+    height: 650px;
+    border-radius: 10px;
+    background-color: rgb(54, 54, 54);
+    box-shadow: rgb(54, 54, 54) 0px 0px 80px 15px;
+}
+.photo{
+    width: 100%;
+    height: 220px;
+}
+.Uimg {
+    /*В основном 500x500*/
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+
+}
+.textVh3{
+    margin-left: 10px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+
+}
+.PrP{
+    width: 60%;
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.strokaRB{
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 10px;
+    box-shadow: orange 0px 0px 10px 3px;
+    font-family: 'Roboto', sans-serif;
+}
+.Ablock{
+    width: 100%;
+    height: 550px;
+    margin-top: 100px;
+
+}
+.Aleft{
+    margin-top: 20px;
+    margin-left: 20px;
+    float: left;
+    width: 350px;
+    height: 500px;
+
+}
+.oo{
+    margin-left: 230px;
+}
+.Abtn{
+    margin: auto auto 0px;
+    margin-top: 20px;
+    width: 80%;
+    border-radius: 15px;
+    border: 5px solid rgb(85, 85, 85);
+    height: 50px;
+    background-color: rgb(190, 190, 190);
+    
+}
+.Auser{
+    width: 350px;
+    height: 350px;
+}
+.Aright{
+float: right;
+width: 800px;
+height: 500px;
+margin-right: 20px;
+
+margin-top: 20px;
+}
+.adelete{
+    color: black;
+    text-decoration: none;
+}
+@media screen and (max-width: 1850px){
+    .RightChast{
+        max-width: 500px;
+    }
+    .Aright{
+        float: right;
+        width: 400px;
+        height: 500px;
+        margin-right: 20px;
+
+        margin-top: 20px;
+        }
+}
+@media screen and (max-width: 1480px){
+    .RightChast{
+
+        max-width: 300px;
+    }
+    .textNaz{
+        font-size: 30px;
+    }
+    .opisT{
+        font-size: 20px;
+    }
+    .Aright{
+        float: right;
+        width: 400px;
+        height: 500px;
+        margin-right: 20px;
+
+        margin-top: 20px;
+        }
+}
